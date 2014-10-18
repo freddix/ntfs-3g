@@ -1,11 +1,11 @@
 Summary:	Full featured NTFS driver
 Name:		ntfs-3g
-Version:	2012.1.15
+Version:	2014.2.15
 Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://tuxera.com/opensource/%{name}_ntfsprogs-%{version}.tgz
-# Source0-md5:	341acae00a290cab9b00464db65015cc
+# Source0-md5:	f11d563816249d730a00498983485f3a
 URL:		http://www.ntfs-3g.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
